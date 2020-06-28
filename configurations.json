@@ -1,0 +1,5 @@
+{
+    "path": "abs-path-to-resource-folder",
+    "botconf": "BotConfig.json",
+    "serverconf": "ServerConfig.json"
+}

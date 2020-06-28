@@ -1,0 +1,8 @@
+{
+    "name": "Kotte",
+    "secret": "[discord-secret]",
+    "id": 0,
+    "invite": "[invite-link]",
+    "token": "[discord-token]",
+    "yutoken": "[youtube-token]"
+}

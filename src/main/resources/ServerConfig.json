@@ -1,0 +1,13 @@
+{
+    "censor": "CENSORED",
+    "welcomeMessage":  "Welcome!",
+    "goodbyeMessage": "Goodbye!",
+
+    "admins": [
+        "#0000"
+    ],
+
+    "banned": [
+        "banned-words-on-the-server"
+    ]
+}
